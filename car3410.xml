@@ -17,9 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>23</xmin>
-			<ymin>61</ymin>
-			<xmax>386</xmax>
+			<xmin>36</xmin>
+			<ymin>74</ymin>
+			<xmax>375</xmax>
 			<ymax>342</ymax>
 		</bndbox>
 	</object>
@@ -33,6 +33,30 @@
 			<ymin>230</ymin>
 			<xmax>281</xmax>
 			<ymax>305</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wheel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>255</ymin>
+			<xmax>175</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wheel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>298</xmin>
+			<ymin>231</ymin>
+			<xmax>372</xmax>
+			<ymax>307</ymax>
 		</bndbox>
 	</object>
 </annotation>

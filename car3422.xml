@@ -35,4 +35,28 @@
 			<ymax>322</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>wheel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>284</ymin>
+			<xmax>219</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wheel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>267</ymin>
+			<xmax>359</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
 </annotation>
