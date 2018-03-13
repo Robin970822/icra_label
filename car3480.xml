@@ -12,18 +12,6 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>3</xmin>
-			<ymin>37</ymin>
-			<xmax>574</xmax>
-			<ymax>480</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>wheel</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
@@ -56,6 +44,18 @@
 			<xmin>2</xmin>
 			<ymin>371</ymin>
 			<xmax>157</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>17</ymin>
+			<xmax>576</xmax>
 			<ymax>480</ymax>
 		</bndbox>
 	</object>

@@ -59,28 +59,4 @@
 			<ymax>313</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>armer</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>65</xmin>
-			<ymin>242</ymin>
-			<xmax>92</xmax>
-			<ymax>293</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>wheel</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>45</xmin>
-			<ymin>252</ymin>
-			<xmax>74</xmax>
-			<ymax>303</ymax>
-		</bndbox>
-	</object>
 </annotation>
