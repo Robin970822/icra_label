@@ -1,7 +1,7 @@
 <annotation>
 	<folder>data</folder>
-	<filename>car0024.jpg</filename>
-	<path>/home/hanxy/icra/data/car0024.jpg</path>
+	<filename>car3284.jpg</filename>
+	<path>/home/hanxy/icra/data/car3284.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>33</xmin>
-			<ymin>1</ymin>
-			<xmax>531</xmax>
-			<ymax>480</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>armer</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>233</xmin>
-			<ymin>303</ymin>
-			<xmax>426</xmax>
-			<ymax>472</ymax>
+			<xmin>26</xmin>
+			<ymin>224</ymin>
+			<xmax>100</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wheel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>221</ymin>
+			<xmax>149</xmax>
+			<ymax>291</ymax>
 		</bndbox>
 	</object>
 </annotation>
