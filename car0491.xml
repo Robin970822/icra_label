@@ -1,7 +1,7 @@
 <annotation>
 	<folder>data</folder>
 	<filename>car0491.jpg</filename>
-	<path>/home/hanxy/icra/data/car0491.jpg</path>
+	<path>/home/xzt/icra_label/data/car0491.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -32,6 +32,18 @@
 			<xmin>365</xmin>
 			<ymin>310</ymin>
 			<xmax>443</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>armer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>321</ymin>
+			<xmax>276</xmax>
 			<ymax>391</ymax>
 		</bndbox>
 	</object>
