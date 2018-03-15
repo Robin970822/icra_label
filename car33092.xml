@@ -1,7 +1,7 @@
 <annotation>
 	<folder>data</folder>
-	<filename>car33460.jpg</filename>
-	<path>/home/hanxy/icra/data/car33460.jpg</path>
+	<filename>car33092.jpg</filename>
+	<path>/home/hanxy/icra/data/car33092.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>119</xmin>
-			<ymin>57</ymin>
-			<xmax>276</xmax>
-			<ymax>210</ymax>
+			<xmin>167</xmin>
+			<ymin>62</ymin>
+			<xmax>309</xmax>
+			<ymax>201</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>184</xmin>
-			<ymin>151</ymin>
-			<xmax>238</xmax>
-			<ymax>195</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>wheel</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>252</xmin>
-			<ymin>156</ymin>
+			<xmin>220</xmin>
+			<ymin>144</ymin>
 			<xmax>272</xmax>
-			<ymax>207</ymax>
+			<ymax>186</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +41,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>136</xmin>
-			<ymin>156</ymin>
-			<xmax>149</xmax>
-			<ymax>211</ymax>
+			<xmin>176</xmin>
+			<ymin>152</ymin>
+			<xmax>197</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wheel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>149</ymin>
+			<xmax>307</xmax>
+			<ymax>197</ymax>
 		</bndbox>
 	</object>
 </annotation>
